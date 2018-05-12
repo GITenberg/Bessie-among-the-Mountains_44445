@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '2089'
     url: http://www.gutenberg.org/2009/agents/2089
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44445#Bessie-among-the-Mountains
 gutenberg_issued: '2013-12-16'
 gutenberg_type: Text
 identifiers:
